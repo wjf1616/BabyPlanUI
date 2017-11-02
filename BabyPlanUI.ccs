@@ -3,8 +3,52 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Image Name="HelloWorld.png" />
-        <Project Name="MainScene.csd" Type="Scene" />
+        <Folder Name="armature">
+          <ExportJsonFile Name="loading.ExportJson" />
+        </Folder>
+        <Folder Name="button">
+          <Image Name="btn_guanbi.png" />
+        </Folder>
+        <Folder Name="i18n">
+          <Folder Name="zh_CN">
+            <Folder Name="button">
+              <Image Name="btn_ksyx.png" />
+            </Folder>
+            <Folder Name="img">
+              <Image Name="wz_title_zjdl.png" />
+            </Folder>
+          </Folder>
+        </Folder>
+        <Folder Name="icon">
+          <Image Name="item_apple.png" />
+          <Image Name="item_banana.png" />
+          <Image Name="item_carrot.png" />
+          <Image Name="item_cherry.png" />
+          <Image Name="item_chinesecabbage.png" />
+          <Image Name="item_corn.png" />
+          <Image Name="item_grape.png" />
+          <Image Name="item_kiwifruit.png" />
+          <Image Name="item_lemon.png" />
+          <Image Name="item_mushroom.png" />
+          <Image Name="item_orange.png" />
+          <Image Name="item_peach.png" />
+          <Image Name="item_pear.png" />
+          <Image Name="item_pepper.png" />
+          <Image Name="item_pineapple.png" />
+          <Image Name="item_pitaya.png" />
+          <Image Name="item_strawberry.png" />
+          <Image Name="item_tomatoes.png" />
+          <Image Name="item_watermelon.png" />
+        </Folder>
+        <Folder Name="img">
+          <Image Name="bg_denglu.png" />
+          <Image Name="touming.png" />
+        </Folder>
+        <Folder Name="json">
+          <File Name="fruits.json" />
+        </Folder>
+        <Project Name="DengluLayer.csd" Type="Layer" />
+        <Project Name="MainCityLayer.csd" Type="Layer" />
       </RootFolder>
     </Group>
   </SolutionFolder>
