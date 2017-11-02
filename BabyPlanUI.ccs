@@ -42,6 +42,8 @@
         </Folder>
         <Folder Name="img">
           <Image Name="bg_denglu.png" />
+          <Image Name="bg_maincity.png" />
+          <Image Name="bg_ploy.png" />
           <Image Name="touming.png" />
         </Folder>
         <Folder Name="json">
@@ -49,6 +51,7 @@
         </Folder>
         <Project Name="DengluLayer.csd" Type="Layer" />
         <Project Name="MainCityLayer.csd" Type="Layer" />
+        <Project Name="PloyLayer.csd" Type="Layer" />
       </RootFolder>
     </Group>
   </SolutionFolder>

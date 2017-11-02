@@ -6,16 +6,16 @@
       <ObjectData Name="Layer" Tag="3" ctype="GameLayerObjectData">
         <Size X="1136.0000" Y="640.0000" />
         <Children>
-          <AbstractNodeData Name="bgcontent" ActionTag="1688745112" Tag="4" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftEage="171" RightEage="171" TopEage="96" BottomEage="96" Scale9OriginX="171" Scale9OriginY="96" Scale9Width="178" Scale9Height="101" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="bgcontent" ActionTag="1688745112" Tag="4" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftEage="171" RightEage="171" TopEage="96" BottomEage="96" Scale9OriginX="171" Scale9OriginY="96" Scale9Width="829" Scale9Height="462" ctype="ImageViewObjectData">
             <Size X="1136.0000" Y="640.0000" />
             <Children>
-              <AbstractNodeData Name="btn_kaishi" ActionTag="715587098" Tag="5" IconVisible="False" LeftMargin="438.8589" RightMargin="458.1411" TopMargin="462.7957" BottomMargin="80.2043" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="209" Scale9Height="75" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="btn_kaishi" ActionTag="715587098" Alpha="0" Tag="5" IconVisible="False" LeftMargin="449.2574" RightMargin="447.7426" TopMargin="246.0535" BottomMargin="296.9465" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="209" Scale9Height="75" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="239.0000" Y="97.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="558.3589" Y="128.7043" />
+                <Position X="568.7574" Y="345.4465" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4915" Y="0.2011" />
+                <PrePosition X="0.5007" Y="0.5398" />
                 <PreSize X="0.2104" Y="0.1516" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Normal" Path="img/touming.png" Plist="" />

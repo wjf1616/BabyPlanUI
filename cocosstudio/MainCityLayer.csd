@@ -6,16 +6,16 @@
       <ObjectData Name="Layer" Tag="6" ctype="GameLayerObjectData">
         <Size X="1136.0000" Y="640.0000" />
         <Children>
-          <AbstractNodeData Name="bgcontent" ActionTag="1115733735" Tag="7" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftEage="171" RightEage="171" TopEage="96" BottomEage="96" Scale9OriginX="171" Scale9OriginY="96" Scale9Width="178" Scale9Height="101" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="bgcontent" ActionTag="1115733735" Tag="7" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftEage="171" RightEage="171" TopEage="96" BottomEage="96" Scale9OriginX="171" Scale9OriginY="96" Scale9Width="102" Scale9Height="58" ctype="ImageViewObjectData">
             <Size X="1136.0000" Y="640.0000" />
             <Children>
-              <AbstractNodeData Name="btn_level" ActionTag="-1393377843" Tag="8" IconVisible="False" LeftMargin="1017.9830" RightMargin="18.0170" TopMargin="7.1409" BottomMargin="532.8591" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="btn_level" ActionTag="-1393377843" Alpha="0" Tag="8" IconVisible="False" LeftMargin="137.4030" RightMargin="898.5970" TopMargin="-3.2567" BottomMargin="543.2567" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="100.0000" Y="100.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1067.9830" Y="582.8591" />
+                <Position X="187.4030" Y="593.2567" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9401" Y="0.9107" />
+                <PrePosition X="0.1650" Y="0.9270" />
                 <PreSize X="0.0880" Y="0.1563" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Normal" Path="img/touming.png" Plist="" />
@@ -24,13 +24,13 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="btn_seting" ActionTag="-386126718" Tag="9" IconVisible="False" LeftMargin="913.5756" RightMargin="122.4244" TopMargin="528.5018" BottomMargin="11.4982" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="btn_seting" ActionTag="-386126718" Alpha="0" Tag="9" IconVisible="False" LeftMargin="787.0333" RightMargin="248.9667" TopMargin="552.7699" BottomMargin="-12.7699" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="100.0000" Y="100.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="963.5756" Y="61.4982" />
+                <Position X="837.0333" Y="37.2301" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.8482" Y="0.0961" />
+                <PrePosition X="0.7368" Y="0.0582" />
                 <PreSize X="0.0880" Y="0.1563" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Normal" Path="img/touming.png" Plist="" />
@@ -39,13 +39,13 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="btn_kill" ActionTag="435553335" Tag="10" IconVisible="False" LeftMargin="1007.1816" RightMargin="28.8184" TopMargin="526.3676" BottomMargin="13.6325" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="btn_kill" ActionTag="435553335" Alpha="0" Tag="10" IconVisible="False" LeftMargin="882.3732" RightMargin="153.6268" TopMargin="552.3690" BottomMargin="-12.3689" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="100.0000" Y="100.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1057.1816" Y="63.6325" />
+                <Position X="932.3732" Y="37.6311" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9306" Y="0.0994" />
+                <PrePosition X="0.8208" Y="0.0588" />
                 <PreSize X="0.0880" Y="0.1563" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Normal" Path="img/touming.png" Plist="" />
@@ -61,7 +61,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.5000" />
             <PreSize X="1.0000" Y="1.0000" />
-            <FileData Type="Normal" Path="img/bg_denglu.png" Plist="" />
+            <FileData Type="Normal" Path="img/bg_maincity.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
