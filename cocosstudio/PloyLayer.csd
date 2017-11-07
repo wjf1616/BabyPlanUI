@@ -34,9 +34,9 @@
             <FileData Type="Normal" Path="img/bg_ploy.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="cargo" ActionTag="244343563" Tag="6" IconVisible="False" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" HorizontalEdge="RightEdge" LeftMargin="336.0300" RightMargin="-0.0012" TopMargin="-300.0320" BottomMargin="640.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-            <Size X="799.9712" Y="300.0320" />
+            <Size X="799.9713" Y="300.0320" />
             <Children>
-              <AbstractNodeData Name="bg" ActionTag="-210625339" Tag="7" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftEage="94" RightEage="94" TopEage="29" BottomEage="29" Scale9OriginX="94" Scale9OriginY="29" Scale9Width="98" Scale9Height="32" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="bg" ActionTag="-210625339" Tag="7" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" RightMargin="0.0001" LeftEage="94" RightEage="94" TopEage="29" BottomEage="29" Scale9OriginX="94" Scale9OriginY="29" Scale9Width="98" Scale9Height="32" ctype="ImageViewObjectData">
                 <Size X="799.9712" Y="300.0320" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="399.9856" Y="150.0160" />
@@ -46,7 +46,7 @@
                 <PreSize X="1.0000" Y="1.0000" />
                 <FileData Type="Normal" Path="img/ploy_item_bg.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="cargo_01" ActionTag="-887698083" Tag="12" IconVisible="False" LeftMargin="11.3557" RightMargin="532.6155" TopMargin="19.3176" BottomMargin="24.7144" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="cargo_01" ActionTag="-887698083" Tag="12" IconVisible="False" LeftMargin="11.3557" RightMargin="532.6155" TopMargin="19.3220" BottomMargin="24.7100" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="256.0000" Y="256.0000" />
                 <Children>
                   <AbstractNodeData Name="kuang" ActionTag="1892285616" Tag="11" IconVisible="False" LeftMargin="1.7477" RightMargin="-1.7477" TopMargin="-3.2905" BottomMargin="3.2905" Scale9Enable="True" LeftEage="29" RightEage="29" TopEage="29" BottomEage="29" Scale9OriginX="29" Scale9OriginY="29" Scale9Width="30" Scale9Height="30" ctype="ImageViewObjectData">
@@ -71,7 +71,7 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="11.3557" Y="24.7144" />
+                <Position X="11.3557" Y="24.7100" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0142" Y="0.0824" />
@@ -163,20 +163,20 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="truck" ActionTag="-1418703325" Tag="19" IconVisible="False" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="-1136.0000" RightMargin="1172.0112" TopMargin="340.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-            <Size X="1099.9888" Y="300.0000" />
+          <AbstractNodeData Name="truck" ActionTag="-1418703325" Tag="19" IconVisible="False" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="-1136.0000" RightMargin="1172.0112" TopMargin="339.9680" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="1099.9888" Y="300.0320" />
             <Children>
-              <AbstractNodeData Name="bg" ActionTag="1640805815" Tag="20" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftEage="94" RightEage="94" TopEage="29" BottomEage="29" Scale9OriginX="94" Scale9OriginY="29" Scale9Width="98" Scale9Height="32" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="bg" ActionTag="1640805815" Tag="20" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" TopMargin="0.0320" LeftEage="94" RightEage="94" TopEage="29" BottomEage="29" Scale9OriginX="94" Scale9OriginY="29" Scale9Width="98" Scale9Height="32" ctype="ImageViewObjectData">
                 <Size X="1099.9888" Y="300.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="549.9944" Y="150.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5000" Y="0.5000" />
-                <PreSize X="1.0000" Y="1.0000" />
+                <PrePosition X="0.5000" Y="0.4999" />
+                <PreSize X="1.0000" Y="0.9999" />
                 <FileData Type="Normal" Path="img/ploy_item_bg.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="truck_01" ActionTag="-852570246" Tag="21" IconVisible="False" LeftMargin="303.2887" RightMargin="540.7001" TopMargin="25.4646" BottomMargin="18.5354" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="truck_01" ActionTag="-852570246" Tag="21" IconVisible="False" LeftMargin="303.2887" RightMargin="540.7001" TopMargin="25.4966" BottomMargin="18.5354" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="256.0000" Y="256.0000" />
                 <Children>
                   <AbstractNodeData Name="kuang" ActionTag="2091093604" Tag="22" IconVisible="False" LeftMargin="1.7477" RightMargin="-1.7477" TopMargin="-3.2905" BottomMargin="3.2905" Scale9Enable="True" LeftEage="29" RightEage="29" TopEage="29" BottomEage="29" Scale9OriginX="29" Scale9OriginY="29" Scale9Width="30" Scale9Height="30" ctype="ImageViewObjectData">
@@ -211,19 +211,29 @@
                     <OutlineColor A="255" R="255" G="255" B="255" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
+                  <AbstractNodeData Name="select" ActionTag="1793503628" VisibleForFrame="False" Tag="30" IconVisible="False" LeftMargin="1.7477" RightMargin="-1.7477" TopMargin="-3.2905" BottomMargin="3.2905" Scale9Enable="True" LeftEage="29" RightEage="29" TopEage="29" BottomEage="29" Scale9OriginX="29" Scale9OriginY="29" Scale9Width="30" Scale9Height="30" ctype="ImageViewObjectData">
+                    <Size X="256.0000" Y="256.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="129.7477" Y="131.2905" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5068" Y="0.5129" />
+                    <PreSize X="1.0000" Y="1.0000" />
+                    <FileData Type="Normal" Path="img/ploy_icon_2.png" Plist="" />
+                  </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
                 <Position X="303.2887" Y="18.5354" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2757" Y="0.0618" />
-                <PreSize X="0.2327" Y="0.8533" />
+                <PreSize X="0.2327" Y="0.8532" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="truck_02" ActionTag="-200992695" Tag="24" IconVisible="False" LeftMargin="562.0130" RightMargin="281.9758" TopMargin="25.4646" BottomMargin="18.5354" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="truck_02" ActionTag="-200992695" Tag="24" IconVisible="False" LeftMargin="562.0130" RightMargin="281.9758" TopMargin="25.4966" BottomMargin="18.5354" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="256.0000" Y="256.0000" />
                 <Children>
                   <AbstractNodeData Name="kuang" ActionTag="863733866" Tag="25" IconVisible="False" LeftMargin="1.7477" RightMargin="-1.7477" TopMargin="-3.2905" BottomMargin="3.2905" Scale9Enable="True" LeftEage="29" RightEage="29" TopEage="29" BottomEage="29" Scale9OriginX="29" Scale9OriginY="29" Scale9Width="30" Scale9Height="30" ctype="ImageViewObjectData">
@@ -258,19 +268,29 @@
                     <OutlineColor A="255" R="255" G="255" B="255" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
+                  <AbstractNodeData Name="select" ActionTag="771465770" VisibleForFrame="False" Tag="31" IconVisible="False" LeftMargin="1.7477" RightMargin="-1.7477" TopMargin="-3.2905" BottomMargin="3.2905" Scale9Enable="True" LeftEage="29" RightEage="29" TopEage="29" BottomEage="29" Scale9OriginX="29" Scale9OriginY="29" Scale9Width="30" Scale9Height="30" ctype="ImageViewObjectData">
+                    <Size X="256.0000" Y="256.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="129.7477" Y="131.2905" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5068" Y="0.5129" />
+                    <PreSize X="1.0000" Y="1.0000" />
+                    <FileData Type="Normal" Path="img/ploy_icon_2.png" Plist="" />
+                  </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
                 <Position X="562.0130" Y="18.5354" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5109" Y="0.0618" />
-                <PreSize X="0.2327" Y="0.8533" />
+                <PreSize X="0.2327" Y="0.8532" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="truck_03" ActionTag="-1711895277" Tag="27" IconVisible="False" LeftMargin="820.7382" RightMargin="23.2505" TopMargin="25.4651" BottomMargin="18.5349" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="truck_03" ActionTag="-1711895277" Tag="27" IconVisible="False" LeftMargin="820.7382" RightMargin="23.2505" TopMargin="25.4971" BottomMargin="18.5349" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="256.0000" Y="256.0000" />
                 <Children>
                   <AbstractNodeData Name="kuang" ActionTag="1482985384" Tag="28" IconVisible="False" LeftMargin="1.7477" RightMargin="-1.7477" TopMargin="-3.2905" BottomMargin="3.2905" Scale9Enable="True" LeftEage="29" RightEage="29" TopEage="29" BottomEage="29" Scale9OriginX="29" Scale9OriginY="29" Scale9Width="30" Scale9Height="30" ctype="ImageViewObjectData">
@@ -305,25 +325,45 @@
                     <OutlineColor A="255" R="255" G="255" B="255" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
+                  <AbstractNodeData Name="select" ActionTag="685744580" VisibleForFrame="False" Tag="32" IconVisible="False" LeftMargin="1.7477" RightMargin="-1.7477" TopMargin="-3.2905" BottomMargin="3.2905" Scale9Enable="True" LeftEage="29" RightEage="29" TopEage="29" BottomEage="29" Scale9OriginX="29" Scale9OriginY="29" Scale9Width="30" Scale9Height="30" ctype="ImageViewObjectData">
+                    <Size X="256.0000" Y="256.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="129.7477" Y="131.2905" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5068" Y="0.5129" />
+                    <PreSize X="1.0000" Y="1.0000" />
+                    <FileData Type="Normal" Path="img/ploy_icon_2.png" Plist="" />
+                  </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
                 <Position X="820.7382" Y="18.5349" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.7461" Y="0.0618" />
-                <PreSize X="0.2327" Y="0.8533" />
+                <PreSize X="0.2327" Y="0.8532" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ico" ActionTag="2053886464" Tag="33" IconVisible="False" LeftMargin="149.5000" RightMargin="949.4888" TopMargin="249.5000" BottomMargin="49.5000" Scale9Width="1" Scale9Height="1" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="truck_mc" ActionTag="459593068" VisibleForFrame="False" Tag="35" IconVisible="False" LeftMargin="303.2887" RightMargin="795.7001" TopMargin="280.4966" BottomMargin="18.5355" Scale9Width="1" Scale9Height="1" ctype="ImageViewObjectData">
+                <Size X="1.0000" Y="1.0000" />
+                <AnchorPoint />
+                <Position X="303.2887" Y="18.5355" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2757" Y="0.0618" />
+                <PreSize X="0.0009" Y="0.0033" />
+                <FileData Type="Normal" Path="img/touming.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="ico" ActionTag="2053886464" Tag="33" IconVisible="False" LeftMargin="149.5000" RightMargin="949.4888" TopMargin="249.5320" BottomMargin="49.5000" Scale9Width="1" Scale9Height="1" ctype="ImageViewObjectData">
                 <Size X="1.0000" Y="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="150.0000" Y="50.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1364" Y="0.1667" />
+                <PrePosition X="0.1364" Y="0.1666" />
                 <PreSize X="0.0009" Y="0.0033" />
                 <FileData Type="Normal" Path="img/touming.png" Plist="" />
               </AbstractNodeData>

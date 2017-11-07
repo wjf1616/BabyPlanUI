@@ -3,9 +3,9 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="PloyLayer.csd" />
+          <FilePathData Path="DengluLayer.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="PloyLayer.csd" />
+        <ActiveDocument Path="DengluLayer.csd" />
       </Value>
     </Item>
     <Item Key="CocosRecentOperation">
