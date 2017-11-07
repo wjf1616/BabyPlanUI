@@ -9,18 +9,18 @@
           <AbstractNodeData Name="bgcontent" ActionTag="1688745112" Tag="4" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftEage="171" RightEage="171" TopEage="96" BottomEage="96" Scale9OriginX="171" Scale9OriginY="96" Scale9Width="1578" Scale9Height="888" ctype="ImageViewObjectData">
             <Size X="1136.0000" Y="640.0000" />
             <Children>
-              <AbstractNodeData Name="btn_kaishi" ActionTag="715587098" Alpha="0" Tag="5" IconVisible="False" LeftMargin="199.9972" RightMargin="736.0028" TopMargin="322.7552" BottomMargin="117.2448" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="209" Scale9Height="75" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="btn_kaishi" ActionTag="715587098" Tag="5" IconVisible="False" LeftMargin="316.3992" RightMargin="619.6008" TopMargin="382.8331" BottomMargin="57.1669" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="226" Scale9Height="234" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="200.0000" Y="200.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="299.9972" Y="217.2448" />
+                <Position X="416.3992" Y="157.1669" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.2641" Y="0.3394" />
+                <PrePosition X="0.3665" Y="0.2456" />
                 <PreSize X="0.1761" Y="0.3125" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Normal" Path="img/touming.png" Plist="" />
                 <PressedFileData Type="Normal" Path="img/touming.png" Plist="" />
-                <NormalFileData Type="Normal" Path="i18n/zh_CN/button/btn_ksyx.png" Plist="" />
+                <NormalFileData Type="Normal" Path="button/btn_start.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>

@@ -7,7 +7,10 @@
           <ExportJsonFile Name="loading.ExportJson" />
         </Folder>
         <Folder Name="button">
+          <Image Name="btn_fanhui.png" />
           <Image Name="btn_guanbi.png" />
+          <Image Name="btn_shuiguotan.png" />
+          <Image Name="btn_start.png" />
         </Folder>
         <Folder Name="fonts">
           <TTF Name="heiti.ttf" />
@@ -47,6 +50,7 @@
           <Image Name="bg_denglu.png" />
           <Image Name="bg_maincity.png" />
           <Image Name="bg_ploy.png" />
+          <Image Name="ploy_bg_muban.png" />
           <Image Name="ploy_icon_1.png" />
           <Image Name="ploy_icon_2.png" />
           <Image Name="ploy_icon_3.png" />
